@@ -637,7 +637,7 @@ export default class EvenAndOdd extends Component {
     super();
 
     this.state = {
-      evenArray: [],
+      evenArray: []
       oddArray: [],
       userInput: ''
     }
